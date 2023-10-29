@@ -1,0 +1,6 @@
+.gitignore
+dist/*
+src/pubmed_searchx.egg-info/*
+.idea
+*.pyc
+ss.txt
